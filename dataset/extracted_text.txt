@@ -1,0 +1,531 @@
+  
+  1 
+ 
+ 
+Artificial Intelligence 
+and the Future of 
+Teaching and Learning 
+Insights and Recommendations 
+May 2023 
+
+
+ 
+ 
+Artificial Intelligence and the Future of Teaching and Learning 
+Miguel A. Cardona, Ed.D. 
+Secretary, U.S. Department of Education 
+Roberto J. Rodríguez 
+Assistant Secretary, Office of Planning, Evaluation, and Policy Development 
+Kristina Ishmael 
+Deputy Director, Office of Educational Technology 
+May 2023 
+ 
+Examples Are Not Endorsements 
+This document contains examples and resource materials that are provided for the user’s 
+convenience. The inclusion of any material is not intended to reflect its importance nor is it 
+intended to endorse any views expressed or products or services offered. These materials may 
+contain the views and recommendations of various subject matter experts as well as hypertext links, 
+contact addresses, and websites to information created and maintained by other public and private 
+organizations. The opinions expressed in any of these materials do not necessarily reflect the 
+positions or policies of the U.S. Department of Education. The U.S. Department of Education does 
+not control or guarantee the accuracy, relevance, timeliness, or completeness of any information 
+from other sources that are included in these materials. Other than statutory and regulatory 
+requirements included in the document, the contents of this guidance do not have the force and 
+effect of law and are not meant to bind the public. 
+Contracts and Procurement 
+This document is not intended to provide legal advice or approval of any potential federal 
+contractor’s business decision or strategy in relation to any current or future federal procurement 
+and/or contract. Further, this document is not an invitation for bid, request for proposal, or other 
+solicitation. 
+Licensing and Availability 
+This report is in the public domain and available on the U.S. Department of Education’s 
+(Department’s) website at https://tech.ed.gov. 
+Requests for alternate format documents such as Braille or large print should be submitted to the 
+Alternate Format Center by calling 1-202-260-0852 or by contacting the 504 coordinator via email 
+at om_eeos@ed.gov. 
+Notice to Limited English Proficient Persons 
+If you have difficulty understanding English, you may request language assistance services for 
+Department information that is available to the public. These language assistance services are 
+available free of charge. If you need more information about interpretation or translation services, 
+please call 1-800-USA-LEARN (1-800-872-5327) (TTY: 1-800-437-0833); email us at 
+Ed.Language.Assistance@ed.gov; or write to U.S. Department of Education, Information Resource 
+Center, LBJ Education Building, 400 Maryland Ave. SW, Washington, DC 20202. 
+How to Cite 
+While permission to reprint this publication is not necessary, the suggested citation is as follows:  
+U.S. Department of Education, Office of Educational Technology, Artificial Intelligence and 
+Future of Teaching and Learning: Insights and Recommendations, Washington, DC, 2023.  
+This report is available at https://tech.ed.gov 
+
+ 
+ 
+Table of Contents 
+Introduction ................................ ................................ ................................ ..........................  1 
+Rising Interest in AI in Education ......................................................................................................................................................... 1 
+Three Reasons to Address AI in Education Now................................................................................................................... 2 
+Toward Policies for AI in Education .................................................................................................................................................. 3 
+Building Ethical, Equitable Policies Together................................ ........................  6 
+Guiding Questions ........................................................................................................................................................................................... 6 
+Foundation 1: Center People (Parents, Educators, and Students) ......................................................................... 6 
+Foundation 2: Advance Equity...............................................................................................................................................................7 
+Foundation 3: Ensure Safety, Ethics, and Effectiveness ................................................................................................ 8 
+Foundation 4: Promote Transparency ........................................................................................................................................... 9 
+Overview of Document ............................................................................................................................................................................ 10 
+What is AI? ................................ ................................ ................................ ..........................  11 
+Perspective: Human-Like Reasoning ........................................................................................................................................... 12 
+Perspective: An Algorithm that Pursues a Goal................................................................................................................... 12 
+Perspective: Intelligence Augmentation ................................................................................................................................... 14 
+Definition of “Model”.................................................................................................................................................................................... 14 
+Insight: AI Systems Enable New Forms of Interaction ................................................................................................... 15 
+Key Recommendation: Human in the Loop AI ..................................................................................................................... 16 
+Learning ................................ ................................ ................................ ..............................  18 
+Insight: AI Enables Adaptivity in Learning................................................................................................................................. 18 
+Intelligent Tutoring Systems: An Example of AI Models ............................................................................................. 19 
+Important Directions for Expanding AI-Based Adaptivity .......................................................................................... 20 
+A Duality: Learning With and About AI ........................................................................................................................................ 22 
+A Challenge: Systems Thinking About AI in Education ................................................................................................. 22 
+Open Questions About AI for Learning ....................................................................................................................................... 23 
+Key Recommendation: Seek AI Models Aligned to a Vision for Learning .................................................... 24 
+Teaching ................................ ................................ ................................ .............................  25 
+Always Center Educators in Instructional Loops ............................................................................................................... 25 
+Insight: Using AI to Improve Teaching Jobs .......................................................................................................................... 26 
+Preparing and Supporting Teachers in Planning and Reflecting ........................................................................ 29 
+Designing, Selecting, and Evaluating AI Tools .................................................................................................................... 30 
+Challenge: Balancing Human and Computer Decision-Making .......................................................................... 30 
+Challenge: Making Teaching Jobs Easier While Avoiding Surveillance ........................................................ 31 
+Challenge: Responding to Students’ Strengths While Protecting Their Privacy .................................... 32 
+Questions Worth Asking About AI for Teaching .................................................................................................................34 
+Key Recommendation: Inspectable, Explainable, Overridable AI .......................................................................34 
+ 
+
+ 
+ 
+Formative Assessment ................................ ................................ ................................ . 37 
+Building on Best Practices ..................................................................................................................................................................... 37 
+Implications for Teaching and Learning ................................................................................................................................... 38 
+Insight: AI Can Enhance Feedback Loops ............................................................................................................................... 39 
+An Example: Automated Essay Scoring .................................................................................................................................... 40 
+Key Opportunities for AI in Formative Assessment ......................................................................................................... 41 
+Key Recommendation: Harness Assessment Expertise to Reduce Bias ...................................................... 42 
+Related Questions.........................................................................................................................................................................................43 
+Research and Development ................................ ................................ .......................  44 
+Insight: Research Can Strengthen the Role of Context in AI ....................................................................................44 
+Attention to the Long Tail of Learner Variability ................................................................................................................ 46 
+Partnership in Design-Based Research ......................................................................................................................................47 
+Re-thinking Teacher Professional Development .............................................................................................................. 48 
+Connecting with Public Policy ........................................................................................................................................................... 49 
+Key Recommendation: Focus R&D on Addressing Context.................................................................................... 50 
+Ongoing Questions for Researchers ............................................................................................................................................ 50 
+Desired National R&D Objectives .................................................................................................................................................... 51 
+Recommendations ................................ ................................ ................................ .........  52 
+Insight: Aligning AI to Policy Objectives ..................................................................................................................................... 52 
+Calling Education Leaders to Action ............................................................................................................................................ 53 
+Recommendation #1: Emphasize Humans in the Loop ............................................................................................... 53 
+Recommendation #2: Align AI Models to a Shared Vision for Education .....................................................54 
+Recommendation #3: Design Using Modern Learning Principles ..................................................................... 56 
+Recommendation #4: Prioritize Strengthening Trust .....................................................................................................57 
+Recommendation #5: Inform and Involve Educators ....................................................................................................57 
+Recommendation #6: Focus R&D on Addressing Context and Enhancing Trust and Safety .... 59 
+Recommendation #7: Develop Education-Specific Guidelines and Guardrails..................................... 60 
+Next Steps .......................................................................................................................................................................................................... 60 
+Common Acronyms and Abbreviations ................................ ................................ . 62 
+Acknowledgements ................................ ................................ ................................ .......  63 
+References................................ ................................ ................................ .........................  64 
+ 
+
+ 
+ 1 
+Introduction 
+The U.S. Department of Education (Department) is committed to supporting the use of 
+technology to improve teaching and learning and to support innovation throughout educational 
+systems. This report addresses the clear need for sharing knowledge and developing policies for 
+“Artificial Intelligence,” a rapidly advancing class of foundational capabilities which are 
+increasingly embedded in all types of educational technology systems and are also available to 
+the public. We will consider “educational technology” (edtech) to include both (a) technologies 
+specifically designed for educational use, as well as (b) general technologies that are widely used 
+in educational settings. Recommendations in this report seek to engage teachers, educational 
+leaders, policy makers, researchers, and educational technology innovators and providers as they 
+work together on pressing policy issues that arise as Artificial Intelligence (AI) is used in 
+education.  
+AI can be defined as “automation based on associations.” When computers automate reasoning 
+based on associations in data (or associations deduced from expert knowledge), two shifts 
+fundamental to AI occur and shift computing beyond conventional edtech: (1) from capturing 
+data to detecting patterns in data and (2) from providing access to instructional resources to 
+automating decisions about instruction and other educational processes. Detecting patterns and 
+automating decisions are leaps in the level of responsibilities that can be delegated to a computer 
+system. The process of developing an AI system may lead to bias in how patterns are detected 
+and unfairness in how decisions are automated. Thus, educational systems must govern their use 
+of AI systems. This report describes opportunities for using AI to improve education, recognizes 
+challenges that will arise, and develops recommendations to guide further policy development.  
+Rising Interest in AI in Education  
+Today, many priorities for improvements to teaching and learning are unmet. Educators seek 
+technology-enhanced approaches addressing these priorities that would be safe, effective, and 
+scalable. Naturally, educators wonder if the rapid advances in technology in everyday lives could 
+help. Like all of us, educators use AI-powered services in their everyday lives, such as voice 
+assistants in their homes; tools that can correct grammar, complete sentences, and write essays; 
+and automated trip planning on their phones. Many educators are actively exploring AI tools as 
+they are newly released to the public1. Educators see opportunities to use AI-powered capabilities 
+like speech recognition to increase the support available to students with disabilities, multilingual 
+learners, and others who could benefit from greater adaptivity and personalization in digital 
+tools for learning. They are exploring how AI can enable writing or improving lessons, as well as 
+their process for finding, choosing, and adapting material for use in their lessons.  
+Educators are also aware of new risks. Useful, powerful functionality can also be accompanied 
+with new data privacy and security risks. Educators recognize that AI can automatically produce 
+output that is inappropriate or wrong. They are wary that the associations or automations 
+created by AI may amplify unwanted biases. They have noted new ways in which students may 
+ 
+1 Walton Family Foundation (March 1, 2023). Teachers and students embrace ChatGPT for education. 
+https://www.waltonfamilyfoundation.org/learning/teachers-and-students-embrace-chatgpt-for-education 
+
+ 
+ 2 
+represent others’ work as their own. They are well-aware of “teachable moments” and 
+pedagogical strategies that a human teacher can address but are undetected or misunderstood by 
+AI models. They worry whether recommendations suggested by an algorithm would be fair. 
+Educators’ concerns are manifold. Everyone in education has a responsibility to harness the 
+good to serve educational priorities while also protecting against the dangers that may arise as a 
+result of AI being integrated in edtech. 
+To develop guidance for edtech, the Department works closely with educational constituents. 
+These constituents include educational leaders—teachers, faculty, support staff, and other 
+educators—researchers; policymakers; advocates and funders; technology developers; 
+community members and organizations; and, above all, learners and their families/caregivers. 
+Recently, through its activities with constituents, the Department noticed a sharp rise in interest 
+and concern about AI. For example, a 2021 field scan found that developers of all kinds of 
+technology systems—for student information, classroom instruction, school logistics, parent-
+teacher communication, and more—expect to add AI capabilities to their systems. Through a 
+series of four listening sessions conducted in June and August 2022 and attended by more than 
+700 attendees, it became clear that constituents believe that action is required now in order to get 
+ahead of the expected increase of AI in education technology—and they want to roll up their 
+sleeves and start working together. In late 2022 and early 2023, the public became aware of new 
+generative AI chatbots and began to explore how AI could be used to write essays, create lesson 
+plans, produce images, create personalized assignments for students, and more. From public 
+expression in social media, at conferences, and in news media, the Department learned more 
+about risks and benefits of AI-enabled chatbots. And yet this report will not focus on a specific AI 
+tool, service, or announcement, because AI-enabled systems evolve rapidly. Finally, the 
+Department engaged the educational policy expertise available internally and in its relationships 
+with AI policy experts to shape the findings and recommendations in this report.  
+Three Reasons to Address AI in Education Now 
+“I strongly believe in the need for stakeholders to understand the cyclical 
+effects of AI and education. By understanding how different activities 
+accrue, we have the ability to support virtuous cycles. Otherwise, we will 
+likely allow vicious cycles to perpetuate.”  
+ —Lydia Liu 
+During the listening sessions, constituents articulated three reasons to address AI now: 
+First, AI may enable achieving educational priorities in better ways, at scale, and with lower costs. 
+Addressing varied unfinished learning of students due to the pandemic is a policy priority, and 
+AI may improve the adaptivity of learning resources to students’ strengths and needs. Improving 
+teaching jobs is a priority, and via automated assistants or other tools, AI may provide teachers 
+greater support. AI may also enable teachers to extend the support they offer to individual 
+students when they run out of time. Developing resources that are responsive to the knowledge 
+and experiences students bring to their learning—their community and cultural assets—is a 
+priority, and AI may enable greater customizability of curricular resources to meet local needs. 
+
+ 
+ 3 
+As seen in voice assistants, mapping tools, shopping recommendations, essay-writing capabilities, 
+and other familiar applications, AI may enhance educational services.  
+Second, urgency and importance arise through awareness of system-level risks and anxiety about 
+potential future risks. For example, students may become subject to greater surveillance. Some 
+teachers worry that they may be replaced—to the contrary, the Department firmly rejects the 
+idea that AI could replace teachers. Examples of discrimination from algorithmic bias are on the 
+public’s mind, such as a voice recognition system that doesn’t work as well with regional dialects, 
+or an exam monitoring system that may unfairly identify some groups of students for 
+disciplinary action. Some uses of AI may be infrastructural and invisible, which creates concerns 
+about transparency and trust. AI often arrives in new applications with the aura of magic, but 
+educators and procurement policies require that edtech show efficacy. AI may provide 
+information that appears authentic, but actually is inaccurate or lacking a basis in reality. Of the 
+highest importance, AI brings new risks in addition to the well-known data privacy and data 
+security risks, such as the risk of scaling pattern detectors and automations that result in 
+“algorithmic discrimination” (e.g., systematic unfairness in the learning opportunities or 
+resources recommended to some populations of students). 
+Third, urgency arises because of the scale of possible unintended or unexpected consequences. 
+When AI enables instructional decisions to be automated at scale, educators may discover 
+unwanted consequences. In a simple example, if AI adapts by speeding curricular pace for some 
+students and by slowing the pace for other students (based on incomplete data, poor theories, or 
+biased assumptions about learning), achievement gaps could widen. In some cases, the quality of 
+available data may produce unexpected results. For example, an AI-enabled teacher hiring 
+system might be assumed to be more objective than human-based résumé scoring. Yet, if the AI 
+system relies on poor quality historical data, it might de-prioritize candidates who could bring 
+both diversity and talent to a school’s teaching workforce. 
+In summary, it is imperative to address AI in education now to realize key opportunities, prevent 
+and mitigate emergent risks, and tackle unintended consequences. 
+Toward Policies for AI in Education 
+The 2023 AI Index Report from the Stanford Institute for Human-Centered AI has documented 
+notable acceleration of investment in AI as well as an increase of research on ethics, including 
+issues of fairness and transparency.2 Of course, research on topics like ethics is increasing 
+because problems are observed. Ethical problems will occur in education, too.3 The report found 
+a striking interest in 25 countries in the number of legislative proposals that specifically include 
+AI. In the United States, multiple executive orders are focused on ensuring AI is trustworthy and 
+equitable, and the White House Office of Science and Technology Policy has introduced a 
+ 
+2 Maslej, N., Fattorini, L., Brynjolfsson E., Etchemendy, J., Ligett, K., Lyons, T., Manyika, J., Ngo, H., Niebles, J.C., Parli, V., 
+Shoham, Y., Wald, R., Clark, J. and Perrault, R., (2023). The AI index 2023 annual report. Stanford University: AI Index 
+Steering Committee, Institute for Human-Centered AI.  
+3 Holmes, W. & Porayska-Pomsta, K. (Eds.) (2022). The ethics of artificial intelligence in education. Routledge. ISBN 978-
+0367349721 
+
+ 
+ 4 
+Blueprint for an AI Bill of Rights (Blueprint)4 that provides principles and practices that help 
+achieve this goal. These initiatives, along with other AI-related policy activities occurring in both 
+the executive and legislative branches, will guide the use of AI throughout all sectors of society. 
+In Europe, the European Commission recently released Ethical guidelines on the use of artificial 
+intelligence (AI) and data in teaching and learning for educators.5 
+AI is moving fast and heralding societal changes that require a national policy response. In 
+addition to broad policies for all sectors of society, education-specific policies are needed to 
+address new opportunities and challenges within existing frameworks that take into 
+consideration federal student privacy laws (such as the Family Educational Rights and Privacy 
+Act, or FERPA), as well as similar state related laws. AI also makes recommendations and takes 
+actions automatically in support of student learning, and thus educators will need to consider 
+how such recommendations and actions can comply with laws such as the Individuals with 
+Disabilities Education Act (IDEA). We discuss specific policies in the concluding section. 
+Figure 1: Research about AI is growing rapidly. Other indicators, such as dollars invested and 
+number of people employed, show similar trends. 
+ 
+AI is advancing exponentially (see Figure 1), with powerful new AI features for generating images 
+and text becoming available to the public, and leading to changes in how people create text and 
+ 
+4 White House Office of Science and Technology Policy (October 2022), Blueprint for an AI bill of rights: Making automated 
+systems work for the American people. The White House Office of Science and Technology Policy. 
+https://www.whitehouse.gov/ostp/ai-bill-of-rights/  
+5 European Commission, Directorate-General for Education, Youth, Sport and Culture. (2022). Ethical guidelines on the use of 
+artificial intelligence (AI) and data in teaching and learning for educators, Publications Office of the European 
+Union. https://data.europa.eu/doi/10.2766/153756 
+
+
+ 
+ 5 
+images6. The advances in AI are not only happening in research labs but also are making news in 
+mainstream media and in educational-specific publications.  
+Researchers have articulated a range of concepts and frameworks for ethical AI7, as well as for 
+related concepts such as equitable, responsible, and human-centered AI. Listening session 
+participants called for building on these concepts and frameworks but also recognized the need 
+to do more; participants noted a pressing need for guardrails and guidelines that make 
+educational use of AI advances safe, especially given this accelerating pace of incorporation of AI 
+into mainstream technologies. As policy development takes time, policy makers and educational 
+constituents together need to start now to specify the requirements, disclosures, regulations, and 
+other structures that can shape a positive and safe future for all constituents—especially students 
+and teachers.  
+Policies are urgently needed to implement the following:  
+1. leverage automation to advance learning outcomes while protecting human decision 
+making and judgment;  
+2. interrogate the underlying data quality in AI models to ensure fair and unbiased pattern 
+recognition and decision making in educational applications, based on accurate 
+information appropriate to the pedagogical situation;  
+3. enable examination of how particular AI technologies, as part of larger edtech or 
+educational systems, may increase or undermine equity for students; and 
+4. take steps to safeguard and advance equity, including providing for human checks and 
+balances and limiting any AI systems and tools that undermine equity. 
+  
+ 
+6 Sharples, M. & Pérez y Pérez, R. (2022). Story machines: How computers have become creative writers. Routledge. ISBN 
+9780367751951 
+7 Akgun, S., Greenhow, C. (2022). Artificial intelligence in education: Addressing ethical challenges in K-12 settings. AI 
+Ethics, 2, 431–440. https://doi.org/10.1007/s43681-021-00096-7 
+
+ 
+ 6 
+ 
+Building Ethical, Equitable 
+Policies Together 
+In this report, we aim to build on the listening sessions the Department hosted to engage and 
+inform all constituents involved in making educational decisions so they can prepare for and 
+make better decisions about the role of AI in teaching and learning. AI is a complex and broad 
+topic, and we are not able to cover everything nor resolve issues that still require more 
+constituent engagement. This report is intended to be a starting point. 
+The opportunities and issues of AI in education are equally important in K-12, higher education, 
+and workforce learning. Due to scope limitations, the examples in this report will focus on K-12 
+education. The implications are similar at all levels of education, and the Department intends 
+further activities in 2023 to engage constituents beyond K-12 schools. 
+Guiding Questions 
+Understanding that AI increases automation and allows machines to do some tasks that only 
+people did in the past leads us to a pair of bold, overarching questions:  
+1. What is our collective vision of a desirable and achievable educational system that 
+leverages automation to advance learning while protecting and centering human agency? 
+2. How and on what timeline will we be ready with necessary guidelines and guardrails, as 
+well as convincing evidence of positive impacts, so that constituents can ethically and 
+equitably implement this vision widely? 
+In the Learning, Teaching, and Assessment sections of this report, we elaborate on elements of 
+an educational vision grounded in what today’s learners, teachers, and educational systems need, 
+and we describe key insights and next steps required. Below, we articulate four key foundations 
+for framing these themes. These foundations arise from what we know about the effective use of 
+educational technology to improve opportunity, equity, and outcomes for students and also 
+relate to the new Blueprint. 
+Foundation 1: Center People (Parents, Educators, and Students) 
+Education-focused AI policies at the federal, state, and district levels will be needed to guide and 
+empower local and individual decisions about which technologies to adopt and use in schools 
+and classrooms. Consider what is happening in everyday lives. Many of us use AI-enabled 
+products because they are often better and more convenient. For example, few people want to 
+use paper maps anymore; people find that technology helps us plan the best route to a 
+destination more efficiently and conveniently. And yet, people often do not realize how much 
+privacy they are giving up when they accept AI-enabled systems into their lives. AI will bring 
+privacy and other risks that are hard to address only via individual decision making; additional 
+protections will be needed. 
+
+ 
+ 7 
+There should be clear limits on the ability to collect, use, transfer, and 
+maintain our personal data, including limits on targeted advertising. 
+These limits should put the burden on platforms to minimize how much 
+information they collect, rather than burdening Americans with reading 
+fine print.8 
+As protections are developed, we recommend that policies center people, not machines. To this 
+end, a first recommendation in this document (in the next section) is an emphasis on AI with 
+humans in the loop. Teachers, learners, and others need to retain their agency to decide what 
+patterns mean and to choose courses of action. The idea of humans in the loop builds on the 
+concept of “Human Alternatives, Consideration, and Fallback” in the Blueprint and ethical 
+concepts used more broadly in evaluating AI, such as preserving human dignity. A top policy 
+priority must be establishing human in the loop as a requirement in educational applications, 
+despite contrary pressures to use AI as an alternative to human decision making. Policies should 
+not hinder innovation and improvement, nor should they be burdensome to implement. Society 
+needs an education-focused AI policy that protects civil rights and promotes democratic values 
+in the building, deployment, and governance of automated systems to be used across the many 
+decentralized levels of the American educational system. 
+Foundation 2: Advance Equity 
+“AI brings educational technology to an inflection point. We can either 
+increase disparities or shrink them, depending on what we do now.”  
+—Dr. Russell Shilling 
+A recent Executive Order9 issued by President Biden sought to strengthen the connection among 
+racial equity, education and AI, stating that “members of underserved communities—many of 
+whom have endured generations of discrimination and disinvestment—still confront significant 
+barriers to realizing the full promise of our great Nation, and the Federal Government has a 
+responsibility to remove these barriers” and that the Federal Government shall both “pursue 
+educational equity so that our Nation’s schools put every student on a path to success” and also 
+“root out bias in the design and use of new technologies, such as artificial intelligence.” A specific 
+vision of equity, such as described in the Department’s recent report, Advancing Digital Equity for 
+All10 is essential to policy discussion about AI in education. This report defines digital equity as 
+ 
+8 The White House (September 8, 2022). Readout of White House listening session on tech platform accountability. 
+https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/08/readout-of-white-house-listening-session-
+on-tech-platform-accountability/ 
+9 The White House (February 17, 2023). Executive order on further advancing racial equity and support for underserved 
+communities through the federal government. https://www.whitehouse.gov/briefing-room/presidential-
+actions/2023/02/16/executive-order-on-further-advancing-racial-equity  
+10 U.S. Department of Education, Office of Educational Technology (2022). Advancing digital equity for all: Community-
+based recommendations for developing effective digital equity plans to close the digital divide and enable technology-
+empowered learning. US Department of Education. 
+
+ 
+ 8 
+“the condition in which individuals and communities have the information technology capacity 
+that is needed for full participation in the society and economy of the United States.” 
+Issues related to racial equity and unfair bias were at the heart of every listening session we held. 
+In particular, we heard a conversation that was increasingly attuned to issues of data quality and 
+the consequences of using poor or inappropriate data in AI systems for education. Datasets are 
+used to develop AI, and when they are non-representative or contain undesired associations or 
+patterns, resulting AI models may act unfairly in how they detect patterns or automate decisions. 
+Systematic, unwanted unfairness in how a computer detects patterns or automates decisions is 
+called “algorithmic bias.” Algorithmic bias could diminish equity at scale with unintended 
+discrimination. As this document discussed in the Formative Assessment section, this is not a new 
+conversation. For decades, constituents have rightly probed whether assessments are unbiased 
+and fair. Just as with assessments, whether an AI model exhibits algorithmic bias or is judged to 
+be fair and trustworthy is critical as local school leaders make adoption decisions about using AI 
+to achieve their equity goals.  
+We highlight the concept of “algorithmic discrimination” in the Blueprint. Bias is intrinsic to 
+how AI algorithms are developed using historical data, and it can be difficult to anticipate all 
+impacts of biased data and algorithms during system design. The Department holds that biases 
+in AI algorithms must be addressed when they introduce or sustain unjust discriminatory 
+practices in education. For example, in postsecondary education, algorithms that make 
+enrollment decisions, identify students for early intervention, or flag possible student cheating 
+on exams must be interrogated for evidence of unfair discriminatory bias—and not only when 
+systems are designed, but also later, as systems become widely used. 
+Foundation 3: Ensure Safety, Ethics, and Effectiveness 
+A central safety argument in the Department’s policies is the need for data privacy and security 
+in the systems used by teachers, students, and others in educational institutions. The 
+development and deployment of AI requires access to detailed data. This data goes beyond 
+conventional student records (roster and gradebook information) to detailed information about 
+what students do as they learn with technology and what teachers do as they use technology to 
+teach. AI’s dependence on data requires renewed and strengthened attention to data privacy, 
+security, and governance (as also indicated in the Blueprint). As AI models are not generally 
+developed in consideration of educational usage or student privacy, the educational application 
+of these models may not be aligned with the educational institution’s efforts to comply with 
+federal student privacy laws, such as FERPA, or state privacy laws. 
+
+ 
+ 9 
+Figure 2: The Elementary and Secondary Education Act defines four levels of evidence.
+ 
+Further, educational leaders are committed to basing their decisions about the adoption of 
+educational technology on evidence of effectiveness—a central foundation of the Department’s 
+policy. For example, the requirement to base decisions on evidence also arises in the Elementary 
+and Secondary Education Act (ESEA), as amended, which introduced four tiers of evidence (see 
+Figure 2). Our nation’s research agencies, including the Institute of Education Sciences, are 
+essential to producing the needed evidence. The Blueprint calls for evidence of effectiveness, but 
+the education sector is ahead of that game: we need to insist that AI-enhanced edtech rises to 
+meet ESEA standards as well. 
+Foundation 4: Promote Transparency  
+The central role of complex AI models in a technology’s detection of patterns and 
+implementation of automation is an important way in which AI-enabled applications, products, 
+and services will be different from conventional edtech. The Blueprint introduces the need for 
+transparency about AI models in terms of disclosure (“notice”) and explanation. In education, 
+decision makers will need more than notice—they will need to understand how AI models work 
+in a range of general educational use cases, so they can better anticipate limitations, problems, 
+and risks.  
+AI models in edtech will be approximations of reality and, thus, constituents can always ask these 
+questions: How precise are the AI models? Do they accurately capture what is most important? 
+How well do the recommendations made by an AI model fit educational goals? What are the 
+broader implications of using AI models at scale in educational processes?  
+Building on what was heard from constituents, the sections of this report develop the theme of 
+evaluating the quality of AI systems and tools using multiple dimensions as follows: 
+● About AI: AI systems and tools must respect data privacy and security. Humans must be 
+in the loop. 
+● Learning: AI systems and tools must align to our collective vision for high-quality 
+learning, including equity. 
+● Teaching: AI systems and tools must be inspectable, explainable, and provide human 
+alternatives to AI-based suggestions; educators will need support to exercise professional 
+judgment and override AI models, when necessary. 
+
+
+ 
+ 10 
+● Formative Assessment: AI systems and tools must minimize bias, promote fairness, and 
+avoid additional testing time and burden for students and teachers. 
+● Research and Development: AI systems and tools must account for the context of 
+teaching and learning and must work well in educational practice, given variability in 
+students, teachers, and settings. 
+● Recommendations: Use of AI systems and tools must be safe and effective for students. 
+They must include algorithmic discrimination protections, protect data privacy, provide 
+notice and explanation, and provide a recourse to humans when problems arise. The 
+people most affected by the use of AI in education must be part of the development of 
+the AI model, system, or tool, even if this slows the pace of adoption. 
+ 
+We return to the idea that these considerations fit together in a comprehensive perspective on 
+the quality of AI models in the Recommendations section. 
+Overview of Document 
+We begin in the next section by elaborating a definition of AI, followed by addressing learning, 
+teaching, assessment, and research and development. Organizing key insights by these topics 
+keeps us focused on exploring implications for improving educational opportunity and 
+outcomes for students throughout the report. 
+Within these topics, three important themes are explored: 
+1. Opportunities and Risks. Policies should focus on the most valuable educational 
+advances while mitigating risks. 
+2. Trust and Trustworthiness. Trust and safeguarding are particularly important in 
+education because we have an obligation to keep students out of harm’s way and 
+safeguard their learning experiences.  
+3. Quality of AI Models. The process of developing and then applying a model is at the 
+heart of any AI system. Policies need to support evaluation of the qualities of AI models 
+and their alignment to goals for teaching and learning during the processes of 
+educational adoption and use. 
+“AI in education can only grow at the speed of trust.” 
+—Dr. Dale Allen 
+ 
+ 
+  
+
+ 
+ 11 
+What is AI? 
+Our preliminary definition of AI as automation based on associations requires elaboration. 
+Below we address three additional perspectives on what constitutes AI. Educators will find these 
+different perspectives arise in the marketing of AI functionality and are important to understand 
+when evaluating edtech systems that incorporate AI. One useful glossary of AI for Education 
+terms is the CIRCLS Glossary of Artificial Intelligence Terms for Educators.11  
+AI is not one thing but an umbrella term for a growing set of modeling capabilities, as visualized 
+in Figure 3. 
+Figure 3: Components, types, and subfields of AI based on Regona et al (2022).12  
+ 
+ 
+11 Search for “AI Glossary Educators” to find other useful definitions. 
+12 Regona, Massimo & Yigitcanlar, Tan & Xia, Bo & Li, R.Y.M. (2022). Opportunities and adoption challenges of AI in the 
+construction industry: A PRISMA review. Journal of Open Innovation Technology Market and Complexity, 8(45). 
+https://doi.org/10.3390/joitmc8010045 
+ 
